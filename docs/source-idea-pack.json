@@ -1,0 +1,52 @@
+{
+  "rank": 84,
+  "domain": "AndroidApp",
+  "ideaNo": 4,
+  "ideaName": "ツーリング・バイク・旅行ログ",
+  "repository": "touring-bike-travel-log",
+  "publish": "Google Play",
+  "createdIdeaLookup": {
+    "exactPathFirst": "D:/AI/AndroidApp/created_idea_004_touring-bike-travel-log",
+    "exactPathExists": true,
+    "fallbackSearched": false,
+    "fallbackResults": [],
+    "notes": "完全一致の created_idea と ZIP を使用した。"
+  },
+  "zipLookup": {
+    "exactZip": "D:/AI/AndroidApp/created_idea_004_touring-bike-travel-log/idea_004_touring-bike-travel-log.zip",
+    "exactZipExists": true,
+    "requiredFiles": [
+      "metadata.json",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md"
+    ],
+    "missingRequiredFiles": []
+  },
+  "zipMetadata": {
+    "domain": "AndroidApp",
+    "no": 4,
+    "platform": "AndroidApp",
+    "field": "移動・バイク",
+    "idea": "ツーリング・バイク・旅行ログ",
+    "overview": "散歩、徒歩圏、ツーリング、旅行、持ち物、郵便、給油、整備、点検メモを位置と日付でまとめる。",
+    "problem": "移動の記録、整備履歴、旅行準備が分散し、次回の準備や点検に使いにくい。",
+    "similar": "Google Maps, Fuelio, Notion, MyRoute-app",
+    "diff": "バイクや外出の前後で必要な準備、記録、整備メモを1つのログにする。",
+    "repositoryName": "touring-bike-travel-log",
+    "repositoryTitle": "touring-bike-travel-log",
+    "zipFile": "idea_004_touring-bike-travel-log.zip"
+  },
+  "metadataRepositoryMatches": true,
+  "metadataZipMatches": true,
+  "initialRepositoryReadme": {
+    "existedBeforeCreation": false,
+    "note": "正式 repo が存在しなかったため README.md は存在しないと記録し、domain docs と created_idea ZIP を根拠に作成した。"
+  },
+  "mojibakePolicy": "ZIP本文や既存Markdownは丸写しせず、PICKUP行、metadata、domain docsから正式docsを再構成する。",
+  "unstableEvidencePolicy": "ZIPサイズ、生成時刻、絶対一時パスはQCDS固定根拠に使わない。"
+}
