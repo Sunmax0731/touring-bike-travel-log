@@ -1,0 +1,22 @@
+{
+  "product": {
+    "repository": "touring-bike-travel-log",
+    "title": "ツーリング・バイク・旅行ログ"
+  },
+  "items": [
+    {
+      "id": "touring-bike-travel-log-happy",
+      "title": "ツーリング・バイク・旅行ログ happy",
+      "status": "ready",
+      "tags": [
+        "androidapp",
+        "closed-alpha"
+      ],
+      "tripDate": "2026-05-08",
+      "routeName": "奥多摩周回",
+      "maintenanceStatus": "給油と空気圧確認済み",
+      "owner": "closed-alpha",
+      "nextChecklist": "雨具と工具を確認"
+    }
+  ]
+}
