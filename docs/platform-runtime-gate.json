@@ -1,0 +1,14 @@
+{
+  "product": "touring-bike-travel-log",
+  "title": "ツーリング・バイク・旅行ログ",
+  "domain": "AndroidApp",
+  "ideaNo": 4,
+  "platformType": "android-emulator",
+  "expectedPublicTarget": "Google Play",
+  "browser": null,
+  "android": {
+    "packageName": "com.sunmax0731.touringbiketravellog",
+    "evidence": "dist/android-emulator-result.json"
+  },
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
